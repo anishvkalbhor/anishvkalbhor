@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Mingle - Full-Stack Dating App**
  
- 🌱 I’m currently learning **Nextjs, Typescript, PHP**
+ 🌱 I’m currently learning **Nextjs, Typescript, Microservices Architectures like Redis, Kafka etc**
 
 💬 Ask me about **Node.js, React, Firebase... or anything**
 
