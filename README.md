@@ -6,10 +6,8 @@
 
 <h3 align="center">Upcoming Software Engineer | Mumbai, India</h3>
 
-<br/>
-
 <div align="center">
- 
+    
  🔭 I’m currently working on **Mingle - Full-Stack Dating App**
  
  🌱 I’m currently learning **Nextjs, Typescript, Microservices Architectures like Redis, Kafka etc**
@@ -20,18 +18,25 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:anishkalbhor2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<p align="center">
+    
   <a href="https://linkedin.com/in/anishvkalbhor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- <a href="https://leetcode.com/u/anishkalbhor/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" />
-</a>
+  <a href="https://leetcode.com/u/anishkalbhor" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://anishvkalbhor-resume.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black" alt="Resume"/>
+  </a>
+  <a href="https://anishvkalbhor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  📧 <a href="mailto:anishkalbhor2020@gmail.com">anishkalbhor2020@gmail.com</a> &nbsp; | &nbsp; 📱 +91-9325359422
+</p>
 
  <hr/>
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -41,21 +46,29 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask,wordpress,prisma,postgresql" /><br>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anishvkalbhor&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anishvkalbhor&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishvkalbhor&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats + Most Used Languages
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anishvkalbhor&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anishvkalbhor&hide_border=true&theme=github-dark" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishvkalbhor&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishvkalbhor&layout=compact&hide_border=true&theme=github_dark" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anishvkalbhor&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishvkalbhor&theme=react-dark" />
+</p>
 
 ---
+
+## 🧮 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anishkalbhor?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=anishvkalbhor&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
