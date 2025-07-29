@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask,wordpress,prisma,postgresql" /><br>
 </div>
 
-## 📊 GitHub Stats + Most Used Languages
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anishvkalbhor&hide_border=true&theme=github-dark" />
