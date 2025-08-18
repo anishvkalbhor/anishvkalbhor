@@ -1,22 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anishvkalbhor.anishvkalbhor" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anish+Kalbhor!;" />
 </h1>
 
 <h3 align="center">Upcoming Software Engineer | Mumbai, India</h3>
-
-<div align="center">
-    
- 🔭 I’m currently working on **Mingle - Full-Stack Dating App**
- 
- 🌱 I’m currently learning **Nextjs, Typescript, Microservices Architectures like Redis, Kafka etc**
-
-💬 Ask me about **Node.js, React, Firebase... or anything**
-
-⚡ Fun fact **Always keep an engineer happy..**
-
- </div>
  
 <p align="center">
     
@@ -57,18 +43,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishvkalbhor&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishvkalbhor&theme=react-dark" />
-</p>
-
 ---
 
-## 🧮 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anishkalbhor?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=anishvkalbhor&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
