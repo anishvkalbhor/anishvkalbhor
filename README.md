@@ -24,24 +24,17 @@
   📧 <a href="mailto:anishkalbhor2020@gmail.com">anishkalbhor2020@gmail.com</a> &nbsp; | &nbsp; 📱 +91-9325359422
 </p>
 
- <hr/>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anishvkalbhor&show_icons=true&theme=github_dark&hide_title=true&hide=issues&hide_rank=true&hide_border=true&bg_color=0e1a2e&title_color=3D978F&text_color=d1d1d1&icon_color=378c80" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishvkalbhor&layout=compact&langs_count=6&theme=github_dark&hide=java,css,ejs,jupyter%20notebook,html,c,matlab,batchfile,procfile&hide_border=true&bg_color=0e1a2e&title_color=d1d1d1&text_color=C4C4C4" alt="Top Languages" style="max-width: 100%; height: auto;" />
+</p>
+
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git,postman,githubactions,npm,redis,kafka" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask,wordpress,prisma,postgresql" /><br>
 </div>
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anishvkalbhor&hide_border=true&theme=github-dark" />
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishvkalbhor&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishvkalbhor&layout=compact&hide_border=true&theme=github_dark" />
-</div>
-
----
-
