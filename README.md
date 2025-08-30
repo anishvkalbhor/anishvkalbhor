@@ -1,29 +1,22 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anish+Kalbhor!;" />
-</h1>
-
-<h3 align="center">Upcoming Software Engineer | Mumbai, India</h3>
- 
 <p align="center">
-    
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&section=header&reversal=true&customColorList=12,30,60,90&text=Hi%20There!%20👋%20I'm%20Anish%20Kalbhor!&fontSize=38&animation=fadeIn&desc=🌟%20Upcoming%20Software%20Engineer%20|%20📍%20Mumbai,%20India" />
+    anishkalbhor2020@gmail.com | +91-9325359422
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/anishvkalbhor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/anishkalbhor" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FCC419?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=FCC419" alt="LeetCode"/>
   </a>
   <a href="https://anishvkalbhor-resume.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white&labelColor=6A0DAD&color=8A2BE2" alt="Resume"/>
   </a>
   <a href="https://anishvkalbhor.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=E63946&color=FF6F61" alt="Portfolio"/>
   </a>
 </p>
-
-<p align="center">
-  📧 <a href="mailto:anishkalbhor2020@gmail.com">anishkalbhor2020@gmail.com</a> &nbsp; | &nbsp; 📱 +91-9325359422
-</p>
-
 
 ## 📊 My GitHub Stats
 
