@@ -31,3 +31,5 @@
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git,postman,githubactions,npm,redis,kafka" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask,wordpress,prisma,postgresql" /><br>
 </div>
+
+[![An image of @anishvkalbhor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anishvkalbhor)](https://holopin.io/@anishvkalbhor)
